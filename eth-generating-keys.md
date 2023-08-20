@@ -11,7 +11,7 @@ Acquiring the required 32 ETH for staking on the Ethereum network involves sever
 -	Buy on Exchanges: You can purchase ETH from cryptocurrency exchanges. Make sure to use reputable exchanges and follow secure practices like two-factor authentication (2FA).
 -	Peer-to-Peer (P2P) Transactions: You might also arrange peer-to-peer transactions with trusted individuals.
 -	Staking Pools: Another option is to join a staking pool. Staking pools aggregate the funds of multiple validators to reach the 32 ETH threshold, and rewards are distributed proportionally. However, you might have less control over your staking setup in a pool.
--	I used this long back to aquire some 100 Goerli ETH - https://goerli-faucet.pk910.de/
+-	I used this long back to aquire some 100 Goerli ETH - [Goerli Faucet](https://goerli-faucet.pk910.de/)
 
 ## Depositing ETH into the Ethereum 2.0 Deposit Contract:
 -	Ethereum 2.0 Deposit Contract: The Ethereum 2.0 upgrade introduced a deposit contract where you send your ETH to participate in staking. The deposit contract address is known and can be found on Ethereum-related websites.
