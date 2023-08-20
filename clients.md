@@ -21,7 +21,7 @@ Trade-offs and Rationale:
 -	Stability and Compatibility: Geth's long-standing presence in the Ethereum ecosystem has made it a stable and compatible choice for interacting with Ethereum. It's often the reference client for Ethereum upgrades.
 -	Performance: Parity is known for its performance, and it has been widely used for DApp development. However, as mentioned earlier, its focus has shifted, and Geth might be more actively maintained for Ethereum.
 -	Developer Community: Geth has a strong developer community, making it a reliable choice for obtaining support, troubleshooting, and accessing updates.
--	
+  
 ## Rationale for the Choice of Software
 The choice of client software depends on various factors such as your technical expertise, preferences, and specific requirements:
 -	Prysm and Teku: If you're specifically looking to participate in Ethereum staking as a validator, both Prysm and Teku are solid options. Choose Prysm if you're looking for an easy-to-use client with a strong community presence. Opt for Teku if you prefer a highly modular and performant client that's developed by ConsenSys.
